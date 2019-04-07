@@ -1,3 +1,5 @@
 # TicTacToe
 HTML, CSS, JavaScript project
-![](Screen Shot 2019-04-06 at 9.23.40 PM.png)
+
+![](Screen%20Shot_1.png)
+![](Screen%20Shot_2.png)
